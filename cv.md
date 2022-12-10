@@ -13,9 +13,11 @@ Realizing that I had my whole life ahead of me, I decided to study programming.
 
 ***
 ## Code Example
+```
 function multiply(a, b){
   return a * b
 }
+```
 ***
 ## Experience
 
@@ -27,4 +29,3 @@ function multiply(a, b){
 * Kyrgyz - native
 * Russian - C2
 * English - Google Translate
-
