@@ -1,0 +1,79 @@
+@font-face {
+	font-family: Roboto, sans-serif;
+	src: url("/assets/fonts/Roboto/Roboto-Regular.ttf");
+}
+
+body {
+	font-family: Roboto, sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+header {
+	margin: 20px;
+}
+
+main {
+	margin: 20px;
+}
+
+footer {
+	margin: 20px;
+}
+
+.nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.rsschool {
+	float: right;
+	width: 150px;
+	height: 50px%;
+}
+
+.name {
+	text-align: center;
+	padding: 50px;
+
+	font-size: 4em;
+	font-style: italic;
+}
+
+.nav-item {
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+
+	font-size: 1.5em;
+}
+
+.code {
+	background-color: gainsboro;
+	padding: 5px;
+	margin-right: 1100px;
+}
+
+.github {
+	width: 120px;
+	height: 70px;
+}
+
+.creation {
+	font-size: 32px;
+	position: absolute;
+	right: 50%;
+	left: 50;
+}
