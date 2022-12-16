@@ -5,8 +5,8 @@
 
 body {
 	font-family: Roboto, sans-serif;
-	margin-top: 200px;
-	margin-bottom: 200px;
+	margin-top: 150px;
+	margin-bottom: 150px;
 
 	background-color: gainsboro;
 }
@@ -60,7 +60,7 @@ main {
 
 .name {
 	text-align: center;
-	padding: 50px;
+	padding: 20px;
 
 	font-size: 4em;
 	font-style: italic;
@@ -102,4 +102,8 @@ main {
 
 .footer {
 	background-color: rgb(178, 207, 167);
+}
+
+.photo {
+	float: left;
 }
