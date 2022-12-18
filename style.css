@@ -23,6 +23,8 @@ body {
 
 	background-color: mintcream;
 	border: 3px solid rgb(178, 207, 167);
+
+	box-shadow: 5px 5px 100px 50px black;
 }
 
 main {
